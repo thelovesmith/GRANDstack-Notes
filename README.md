@@ -2,22 +2,6 @@
 
 ## Notes about the GRAND Stack and GCP Cloud Run
 
-title: "GRANDstack"
-author: "AUTHOR"
-
-og:
-type: "article"
-title: "opengraph title"
-url: "optional opengraph url"
-image: "optional opengraph image link"
-footer:
-
-- content: ' • [link2](http://example.com/)<br/>'
-- content: 'Copyright blah blah'
-  date: "`r Sys.Date()`"
-
----
-
 ### Database
 
     + Neo4j Graph Database [NEO4j][1]
